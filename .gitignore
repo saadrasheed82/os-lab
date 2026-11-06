@@ -1,0 +1,4 @@
+.claude/
+*.exe
+output/*
+!output/.gitkeep
